@@ -65,3 +65,41 @@ h1, h2, h3, h4, h5 {
 
 /* Your code starts here! */
 
+nav {
+	margin:20px;
+}
+
+.navigation a {
+	display: inline-block;
+	width: 14%;
+	color: darkgray;
+	font-size: 15px;
+	text-decoration: none;
+	text-align: center;	
+}
+
+.logo {
+	margin-left: 40px;
+}
+h1 {
+	font-size: 60px;
+	text-align: center;
+}
+
+header img, h1 {
+	display: inline-block;
+	
+}
+
+h2 {
+	font-size: 25px;
+}
+
+p {
+	display: inline-block;
+	width: 20%;
+	margin: 1%;
+	text-align: left;
+  }
+
+
