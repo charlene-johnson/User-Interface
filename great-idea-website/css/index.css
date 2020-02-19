@@ -82,20 +82,38 @@ nav a {
 	margin-left: 40px;
 }
 
-h1 {
-	font-size: 60px;
-	text-align: center;
-	
-}
-
-header h1, img  {
-	display: inline-block; 
+.innovation {
+	font-size: 80px;
+	text-align: center;	
+	width: 60%;
+	margin-left: 2%;
+	display: inline-block;
 }
 
 button {
-	padding: 5px 50px;
-	text-align: center;
-	text-decoration: none;
+	font-size: 20px;
+	width: 15%;
+}
+
+.circle-image {
+	margin-left: 14%;
+	margin-right: auto;
+}
+
+.first-section {
 	display: inline-block;
-	font-size: 14px;
+	width: 28%;
+	text-align: left;
+}
+.pic {
+	text-align: center;
+}
+.middle-img {
+	width: 85%;
+}
+
+.second-section {
+	display: inline-block;
+	width: 28%;
+	text-align: left;
 }
